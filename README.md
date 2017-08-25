@@ -1,7 +1,10 @@
 # Welcome to my GitHub Page
 
 ## Task 3
-# Creating First Repository (HelloWorld) and Static Site
+### Creating First Repository (HelloWorld) and Static Site
+
+## Please read the following
+### Important imformation about creating content for your website
 
 You can use the [editor on GitHub](https://github.com/carolinamad/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
