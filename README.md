@@ -1,4 +1,5 @@
 # Welcome to my GitHub Page
+- My name is Carolina Madueno and I'm a web developer student at TAFE NSW
 
 ## Task 3
 ### Creating First Repository (HelloWorld) and Static Site
